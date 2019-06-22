@@ -1,6 +1,6 @@
 "use strict";
 
-const total = +prompt("Wpisz liczbę pytań do wylosowania", 15);
+const total = +prompt("Wpisz liczbę pytań do wylosowania", 5);
 var counter = 1;
       
       (total == 0) ? location.reload() : init();
