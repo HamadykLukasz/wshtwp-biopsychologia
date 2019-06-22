@@ -16,8 +16,217 @@
   },
   {
     "id": 4,
-    "body": "Budodsadsawa i funkcje mikrogleju:",
-    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/1.png"  
+    "body": "Budowa i funkcje oligodendrocytów i komórek Schwanna:",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/4.png"  
+  },
+  {
+    "id": 5,
+    "body": "Jakie siły działają na neuron w stanie spoczynku?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/5.png"  
+  },
+  {
+    "id": 6,
+    "body": "Dzięki czemu błona neuronu utrzymuje stan polaryzacji?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/6.png"  
+  },
+  {
+    "id": 7,
+    "body": "Wymień i opisz pod względem zmian gradientu elektrycznego elementy potencjału czynnościowego.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/7.png"  
+  },
+  {
+    "id": 8,
+    "body": "Opisz potencjał czynnościowy na poziomie molekularnym.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/8.png"  
+  },
+  {
+    "id": 9,
+    "body": "Na czym polega prawo „wszystko albo nic”?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/9.png"  
+  },
+  {
+    "id": 10,
+    "body": "Jaka jest budowa i funkcja osłonki mielinowej i co się dzieje, gdy ulegnie uszkodzeniu.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/10.png"  
+  },
+  {
+    "id": 11,
+    "body": "Scharakteryzuj dwa rodzaje sumowania pobudzenia w neuronie.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/11.png"  
+  },
+  {
+    "id": 12,
+    "body": "Czym jest EPSP i IPSP?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/12.png"  
+  },
+  {
+    "id": 13,
+    "body": "Czy synapsa hamująca działa hamująco na funkcjonowanie organizmu?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/13.png"  
+  },
+  {
+    "id": 14,
+    "body": "W jaki sposób Otto Leowi udowodnił występowanie przekaźnictwa chemicznego w synapsach?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/14.png"  
+  },
+  {
+    "id": 15,
+    "body": "Skąd się biorą neuroprzekaźniki w synapsie?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/15.png"  
+  },
+  {
+    "id": 16,
+    "body": "Co się dzieje z neuroprzekaźnikiem w zakończeniu presynaptycznym po pojawieniu się potencjału czynnościowego?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/16.png"  
+  },
+  {
+    "id": 17,
+    "body": "Główne osiągnięcia i poglądy na układ nerwowy Camillo Golgiego oraz Santiago Ramon y Cajala.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/17.png"  
+  },
+  {
+    "id": 18,
+    "body": "Scharakteryzuj działanie tlenku azotu jako neuroprzekaźnika.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/18.png"  
+  },
+  {
+    "id": 19,
+    "body": "Budowa i funkcje receptorów jonotropowych i metabotropowych.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/19.png"  
+  },
+  {
+    "id": 20,
+    "body": "Jakie są podobieństwa i różnice między neuroprzekaźnikami a hormonami?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/20.png"  
+  },
+  {
+    "id": 21,
+    "body": "Na czym polega dopaminowa hipoteza schizofrenii?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/21.png"  
+  },
+  {
+    "id": 22,
+    "body": "Wymień 4 szlaki dopaminergiczne i ich podstawowe funkcje.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/22.png"  
+  },
+  {
+    "id": 23,
+    "body": "Na czym polega działanie leków SSRI?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/23.png"  
+  },
+  {
+    "id": 24,
+    "body": "Co jest charakterystyczną cechą szlaków GABA-ergicznych i jaka jest powszechna funkcja neuroprzekaźnika GABA?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/24.png"  
+  },
+  {
+    "id": 25,
+    "body": "Wyjaśnij terminy agonista i antagonista w kontekście substancji psychoaktywnych oraz scharakteryzuj ich powinowactwo i skuteczność.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/25.png"  
+  },
+  {
+    "id": 26,
+    "body": "Jakie są trzy podstawowe przekroje mózgu?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/26.png"  
+  },
+  {
+    "id": 27,
+    "body": "Co to oznacza, że jakaś struktura jest położona ipsilateralnie i brzusznie wobec innej?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/27.png"  
+  },
+  {
+    "id": 28,
+    "body": "Na czym polega warstwowa i kolumnowa budowa kory mózgowej?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/28.png"  
+  },
+  {
+    "id": 29,
+    "body": "Czym jest jądro w ośrodkowym UN i jaki jest jego odpowiednik w obwodowym UN?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/29.png"  
+  },
+  {
+    "id": 30,
+    "body": "Podstawowa budowa i funkcje rdzenia kręgowego.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/30.png"  
+  },
+  {
+    "id": 31,
+    "body": "W której części mózgowia położony jest móżdżek i jakie są jego podstawowe funkcje?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/31.png"  
+  },
+  {
+    "id": 32,
+    "body": "Ile nerwów czaszkowych posiada człowiek i jaka jest ich funkcja?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/32.png"  
+  },
+  {
+    "id": 33,
+    "body": "Funkcje nerwu trójdzielnego.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/33.png"  
+  },
+  {
+    "id": 34,
+    "body": "Funkcje nerwu błędnego.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/34.png"  
+  },
+  {
+    "id": 35,
+    "body": "W której części mózgowia znajduje się substancja czarna, z którym neuroprzekaźnikiem jest związana i z jaką chorobą związany jest jej zanik?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/35.png"  
+  },
+  {
+    "id": 36,
+    "body": "Położenie wzgórza i podstawowa funkcja zlokalizowanych w nim jąder.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/36.png"  
+  },
+  {
+    "id": 37,
+    "body": "Jaka jest zależność pomiędzy podwzgórzem a przysadką mózgową?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/37.png"  
+  },
+  {
+    "id": 38,
+    "body": "Funkcje płynu mózgowo-rdzeniowego.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/38.png"  
+  },
+  {
+    "id": 39,
+    "body": "W jaki sposób półkule mózgu komunikują się między sobą?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/39.png"  
+  },
+  {
+    "id": 40,
+    "body": "Na czym polega podział cytoarchitektoniczny mózgu?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/40.png"  
+  },
+  {
+    "id": 41,
+    "body": "Płat potyliczny: lokalizacja i główne funkcje.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/41.png"  
+  },
+  {
+    "id": 42,
+    "body": "Płat ciemieniowy: lokalizacja i główne funkcje.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/42.png"  
+  },
+  {
+    "id": 43,
+    "body": "Płat skroniowy: lokalizacja i główne funkcje.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/43.png"  
+  },
+  {
+    "id": 44,
+    "body": "Płat czołowy: lokalizacja i główne funkcje.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/44.png"  
+  },
+  {
+    "id": 45,
+    "body": "Dlaczego mówi się o „niechlubnej karierze” lobotomii przedczołowej?",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/45.png"  
+  },
+  {
+    "id": 46,
+    "body": "W jaki sposób mózg integruje informacje? Podaj przykłady hipotez.",
+    "answer": "https://raw.githubusercontent.com/HamadykLukasz/wshtwp-biopsychologia/master/pytania/46.png"  
   }
-  
 ]
