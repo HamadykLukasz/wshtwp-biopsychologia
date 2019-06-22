@@ -1,0 +1,106 @@
+* {
+  font-family: "Catamaran", sans-serif;
+}
+
+body {
+  background-color: #1971b1;
+}
+
+img {
+  width: 100%;
+}
+
+.container-fluid {
+  color: #ffffff;
+}
+
+.tile {
+  border-radius: 25px;
+  padding: 20px;
+  width: 40%;
+  height: 20%;
+  background: #ffffff;
+  color: #000;
+  margin: auto;
+  margin-bottom: 2%;
+}
+
+.review {
+  list-style-type: none;
+    margin: 0 0;
+    padding: 0;
+}
+
+.q-body {
+    font-size: 1.5em;
+    cursor: help;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.answer-hidden {
+  filter: blur(0.5rem);
+  cursor: pointer;
+}
+
+.q-answers li {
+    line-height: 30px;
+    transition: color 0.2s ease-out;
+}
+
+.q-answers li:hover {
+    line-height: 30px;
+    color: blue;
+}
+
+.selected{
+  color: blue;
+  font-weight: bold;
+}
+
+#correct{
+  background-color: rgb(118, 201, 118);
+  min-width: 8%;
+  /* font-weight: bold; */
+}
+
+#wrong{
+  background-color: rgb(211, 109, 91);
+  min-width: 8%;
+  /* font-weight: bold; */
+  /* color: blue; */
+}
+
+#select-answer{
+  text-align: center;
+  /* margin-bottom: 5%; */
+}
+
+#next{
+  text-align: center;
+  margin-top: 2%;
+}
+
+#header {
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  cursor: default;
+}
+
+#finish {
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+#btn-finish {
+  margin: auto;
+  display: block
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .tile{
+    width: 100%;
+  }
+}
